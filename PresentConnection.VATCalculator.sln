@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentConnection.VATCalculator", "PresentConnection.VATCalculator\PresentConnection.VATCalculator.csproj", "{BB0A7646-1D71-4440-80EF-C283B0558CF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentConnection.VATCalculator.Tests", "PresentConnection.VATCalculator.tests\PresentConnection.VATCalculator.Tests.csproj", "{FA13A98C-69F0-4EE8-9678-01BFBEB534AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB0A7646-1D71-4440-80EF-C283B0558CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0A7646-1D71-4440-80EF-C283B0558CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0A7646-1D71-4440-80EF-C283B0558CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0A7646-1D71-4440-80EF-C283B0558CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA13A98C-69F0-4EE8-9678-01BFBEB534AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA13A98C-69F0-4EE8-9678-01BFBEB534AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA13A98C-69F0-4EE8-9678-01BFBEB534AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA13A98C-69F0-4EE8-9678-01BFBEB534AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C06BB6A-45A0-4EBD-B00E-C230A6498804}
+	EndGlobalSection
+EndGlobal
